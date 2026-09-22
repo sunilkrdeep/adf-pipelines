@@ -21,7 +21,7 @@
 					"type": "Expression"
 				},
 				"folderPath": "raw_table",
-				"fileSystem": "mysql_data"
+				"fileSystem": "mysqldata"
 			},
 			"compressionCodec": "snappy"
 		},

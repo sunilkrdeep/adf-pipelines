@@ -1,0 +1,15 @@
+{
+	"name": "Sutramind-ADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ef4b871c-876f-470d-bdd6-ac9e4fb55161",
+		"tenantId": "fbaace82-7963-4e05-b8fb-151d33433cd9"
+	}
+}
